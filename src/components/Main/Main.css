@@ -1,0 +1,23 @@
+.main-cont{
+    margin-bottom: 50px;
+}
+.card-div{
+    /* border:2px solid red; */
+    max-width: 1440px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.card{
+    /* border:2px solid red; */
+    box-shadow:-10px 10px 20px rgb(181, 181, 181);
+    border-radius: 10px;;
+   
+}
+.card:hover{
+    box-shadow:-10px 10px 10px rgb(195, 195, 195);
+}
+.pag-main{
+    margin:20px 0 20px 0;
+
+}

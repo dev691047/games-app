@@ -1,0 +1,33 @@
+.page{
+    height: 20px;
+    background-color: rgb(247, 247, 247);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-shadow: 5px -5px 15px rgb(185, 181, 181);
+    width:35px;
+    margin:3px;
+    border-radius: 3px;;
+}
+
+.selected{
+    background-color: rgb(90, 131, 255);
+}
+.page:hover{
+    cursor: pointer;
+    box-shadow: 5px -5px 5px rgb(176, 176, 176);
+    /* width:40px; */
+}
+.pag{
+    /* border:2px solid red; */
+    width:44px;
+   
+}
+.pagg{
+    /* border:2px solid red; */
+    display: flex;
+    /* flex-direction:row; */
+    justify-content: center;
+    flex-wrap: wrap;
+
+}
